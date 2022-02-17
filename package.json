@@ -46,15 +46,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hexagonz"
+    "url": "git+https://github.com/ekadanuarta"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "HEXAGON",
+  "author": "DANUU",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz"
+    "url": "https://github.com/ekadanuarta"
   },
-  "homepage": "https://github.com/Hexagonz"
+  "homepage": "https://github.com/ekadanuarta"
 }
